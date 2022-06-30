@@ -1,0 +1,16 @@
+2.implement One-To-Many Mapping by using Department ,Employees entityes
+-craete entity class Department with bellow variable.
+	A.dept_id;
+	B.dept_name;
+	C.dept_employees;
+
+-craete entity class Employees with bellow variable.
+	A.eid;
+	B.ename;
+	C.esalary;
+	
+
+
+1.insert valus into Department table
+2.insert valus into Employee table
+3.implement One-To-Many Maping between these two.
